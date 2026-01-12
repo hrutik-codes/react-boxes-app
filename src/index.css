@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Write your code here. */
+.heading {
+  color: #0f172a;
+  font-family: sans-serif;
+  text-align: center;
+}
+.box-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+.box {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+}
+.box1 {
+  background-color: #fbbf24;
+  height: 125px;
+  width: 125px;
+}
+.box2 {
+  background-color: #38bdf8;
+  height: 225px;
+  width: 225px;
+}
+.box3 {
+  background-color: #ec4899;
+  height: 325px;
+  width: 325px;
+}
+
